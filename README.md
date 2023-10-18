@@ -1,8 +1,9 @@
 # instagram_clone
 
-A new Flutter project.
+STILL COOKING GUYS....PLEASE WAIT
 <img width="1432" alt="Screen Shot 2023-10-18 at 10 47 35 AM" src="https://github.com/Almightyoo/instagram_clone/assets/117665293/12d09a60-4cbf-4305-8e15-ed1589cd15d0">
 <img width="1435" alt="Screen Shot 2023-10-18 at 10 47 50 AM" src="https://github.com/Almightyoo/instagram_clone/assets/117665293/11ce353a-4f05-4d45-aba2-223e3d461253">
+<img width="1436" alt="Screen Shot 2023-10-18 at 10 53 11 AM" src="https://github.com/Almightyoo/instagram_clone/assets/117665293/6863763f-9f8c-49ef-ab94-2631fa820c60">
 
 ## Getting Started
 
